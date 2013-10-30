@@ -1,0 +1,10 @@
+deploy/IronRubyNet
+*.html.orig
+*.pyc
+Thumbs.db
+*.swp
+*.user
+*.suo
+obj
+bin
+_ReSharper.iron-websites
